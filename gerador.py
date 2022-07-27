@@ -1,7 +1,7 @@
 from random import randint
 from time import sleep
 print('-'*40)
-print(f'{"PALPITES DA MEGA SENA":^40}')
+print(f'{"PALPITES DA MEGA-SENA":^40}')
 print('-'*40)
 res = int(input('Quantos jogos você quer que eu sorteie? '))
 jogos = []
