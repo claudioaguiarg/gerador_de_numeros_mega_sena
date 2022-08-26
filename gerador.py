@@ -17,3 +17,4 @@ for c in range(1,res+1):
     print(f'Jogo {c}: {jogos}')
     jogos.clear()
     sleep(1)
+print('Boa Sorte!!!!')
